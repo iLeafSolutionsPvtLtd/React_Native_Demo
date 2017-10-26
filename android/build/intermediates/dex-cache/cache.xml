@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_f2608c3824d2d32d477c1bffa85088f1f556a91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_a7f18c9660c1d7ee4e2e2fd4a6f7f01bf2ccf615.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.2.0_ce1203cd0ed14ca89a6d3d9d0e0b4b7bb63a7020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_447633f671ba0882a6c703f34c5f3f6c4bd846f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_3bee13106450b020db66308cdd02733c288adf4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_0e6f9a2eb020a82e73655b4b1af61dd63dc4a4ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_a3221da43ce420d3560dc3360802feb3e8424d03.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_8cb1dcf68d89b3835f6b8620276bad0ce2e75a94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_f822238efc8d44b4bf22329d2001a7fddf3da417.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_f1b31295be92f01ba61bcf2b9b0bcc31ee1d17ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_2df83428287fb77e881a71994b6dc4f4f8f1f2d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-11.0.4_bdb7415bde3d440fb8ab1718cf54173d04865555.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_316a842bc0dc8fd382b24acf799cd814be0a4871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_d99af3fa30c90cc03991e12e713b7d431237a002.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.2.0_aa3431d525175bc2d52dc8ec4da549c75ac805ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.2.0_980bd7aa25e4066b9a68bf09c0161c9107dbaafc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_bafb59f19c86ff7fc306b3e4c08751a368e65424.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/JOYN/react-native-device-info/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9d955d081c6567b7779cdef1fbdc34980892b2d">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/JOYN-react-native-device-info-unspecified_88219252d10ae6ea620e8d1a6fc14bf3e60f7dee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.2.0_21b8100891a3219105730f9afcb0281649abfef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_a4ff18420a8934a9e3216240ba688ec9282bc97a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f443e9d4dd1c96dc0cff207e43411080ea623099.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.2.0_99e0717f0e96df3295841795ad31daa4c6d8e780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b3ccc2babea9a884ceb74ff86b197240a1d61adc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7e84a58f14b03e539c66973b1348dfcc92b37959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="79211dda47231d54c25be9dcde75cb3a4832e032">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.49.1_eec5d7c6926dc2ab84837c58827822eea3491b04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_456beae1bfbef6196546d4c957b5e9b726c256ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-11.0.4_49857d66a16aa0217397e592fc5626832cc76e82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_e7ea4e486c0a517743326a43c02b22b521807cd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/adt-bundle-linux-x86_64-20131030/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_0870eb8322eb244e16a1f2765668c10cfdc6174b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.49.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_25f71962f23e445ad6a5f83163e833e7520b6213.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/android11/android11/Desktop/Projects1234/JOYN/JOYN/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.2.0_1bb0fa6234a7cdfff2f46e4f837a9e74075ba4f7.jar" />
+    </item>
+
+</items>
